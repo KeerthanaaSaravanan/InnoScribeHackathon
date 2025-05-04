@@ -78,4 +78,4 @@ Children with SLD face significant challenges in writing during exams and academ
 ## Collaborators  
 - **Keerthana S**: [@KeerthanaaSaravanan](https://github.com/KeerthanaaSaravanan)  
 - **Ashwina K N**: [@Ashwinakn](https://github.com/Ashwinakn)  
-- **Sowmya Badoni**: [@Sowmya](https://github.com/)  
+- **Sowmya Badoni**: [@Sowmya-badoni](https://github.com/sowmya-badoni)  
