@@ -70,7 +70,7 @@ Children with SLD face significant challenges in writing during exams and academ
 
 ###  Community & Collaboration  
 - **Peer Challenges**: Leaderboards and collaborative exercises.  
-- **Parent/Educator Tools**: Detailed analytics and intervention recommendations.  
+- **Parent/Educator Tools**: Detailed analytics and intervention recommendations. 
 
 ###  Offline Learning Mode  
 - Allow students to practice handwriting and dictation without internet access.  
