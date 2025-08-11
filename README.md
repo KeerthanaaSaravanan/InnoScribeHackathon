@@ -15,7 +15,7 @@ Children with SLD face significant challenges in writing during exams and academ
 - Gamifying practice to build confidence and motor skills.  
 - Prioritizing **affordability** and **scalability** through software-first design.  
 
----
+
 
 ## Features 
 
